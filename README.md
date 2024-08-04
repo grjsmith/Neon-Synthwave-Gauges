@@ -50,7 +50,7 @@
 </details>
 
 ## About The Project
-The concept is simple. I like system monitors in Rainmeter. I have a large 21:9 monitor so I can spare a little screenspace at the top of my display. So I wanted reasonably feature rich system monitors that occupied a small amount of vertical space but could use as much horizontal space as needed.
+I love the whole Synthwave aesthetic! I like the music, artists like [Dreamkid](https://open.spotify.com/artist/0603X4AUnZec4wiHJNsynF), [Daniel Delux](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) and [Code Elektro](https://open.spotify.com/artist/3FIZFOkx25ESPENGx6st5w). I love [Robb Owen's SynthWave '84 VSCode](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode). I made a [synthwave](https://github.com/grjsmith/Neon-Synthwave) [Obsidian](https://obsidian.md/) theme. It was about time I created a Rainmeter theme. Times have changed since I created the [Clean Text and Graphs theme](https://github.com/grjsmith/clean-text-and-graphs-for-rainmeter) that was designed to sit at the top of the screen. Now I wanted something that could site on the right or left side of the screen or, in my case, on the right side of my second monitor.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
