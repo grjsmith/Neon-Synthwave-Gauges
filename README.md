@@ -11,7 +11,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/grjsmith/Neon-Synthwave-Gauges"><img src="images/Neon-synthwave-gauges.png" alt="screenshot of Neon Synthwave Gauges for Rainmeter"></a>
+  <a href="https://github.com/grjsmith/Neon-Synthwave-Gauges"><img src="images/neon_synthwave_gauges.png" alt="screenshot of Neon Synthwave Gauges for Rainmeter"></a>
   <p>
   Clean system monitors for rainmeters where vertical space is a premium.
   <br />
