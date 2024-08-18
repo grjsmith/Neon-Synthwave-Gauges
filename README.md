@@ -63,7 +63,7 @@ I love the whole Synthwave aesthetic! I like the music, artists like [Dreamkid](
 ### Prerequisites
 
 * Download Rainmeter from [https://www.rainmeter.net/](https://www.rainmeter.net/)
-* Download the skins from [my S3 bucket](https://entropybit.s3.eu-west-1.amazonaws.com/Neon+Synthwave+Gauges_0.1.rmskin)
+* Download the skins from [my S3 bucket](https://entropybit.s3.eu-west-1.amazonaws.com/Neon+Synthwave+Gauges_0.2.rmskin)
 
 ### Installation
 * Install Rainmeter, [following the excellent documentation if you need it](https://docs.rainmeter.net/manual/installing-rainmeter/)
